@@ -9,6 +9,7 @@ This setup consists of a PC with Minecraft client open and connected to 2b2t.org
 
 ## Features
 * Simple - works in the background and reads the log file
+* Filters out and sorts chat messages internally, then sends all queue position changes over HTTP to your specified destination
 * Systray with exit button
 
 ![tray](https://raw.githubusercontent.com/UltraNyan/2b2t-que-display/master/img/systray.png)
