@@ -3,6 +3,9 @@ Simple utility to read your place in queue and send it to a display.
 
 This setup consists of a PC with Minecraft client open and connected to 2b2t.org, sending changes in queue status via GET request over WiFi to a ESP32 that is running a AsyncHTTP server.
 
+![shot](https://raw.githubusercontent.com/UltraNyan/2b2t-que-display/master/img/shot.JPG)
+
+
 
 ## Features
 * Simple - works in the background and reads the log file
