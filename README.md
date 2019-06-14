@@ -11,6 +11,9 @@ This setup consists of a PC with Minecraft client open and connected to 2b2t.org
 ![tray](https://raw.githubusercontent.com/UltraNyan/2b2t-que-display/master/img/systray.png)
 
 
+## Problems
+Does not suit for percise chat logging as some messages will be lost if there are too many new messages.
+
 ## Source code provided in two sections
 
 ### /Java
