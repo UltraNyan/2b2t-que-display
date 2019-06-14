@@ -12,7 +12,7 @@ This setup consists of a PC with Minecraft client open and connected to 2b2t.org
 
 
 ## Problems
-Does not suit for percise chat logging as some messages will be lost if there are too many new messages.
+Does not suit for percise chat logging as some messages will be lost if there are too many new messages. Logging chat is not the main goal here anyway.
 
 ## Source code provided in two sections
 
