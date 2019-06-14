@@ -6,7 +6,7 @@ This setup consists of a PC with Minecraft client open and connected to 2b2t.org
 
 ## Features
 * Systray with exit button
-![tray](https://github.com/UltraNyan/2b2t-que-display/img/systray.png)
+![tray](https://raw.githubusercontent.com/UltraNyan/2b2t-que-display/master/img/systray.png)
 
 ## Source code provided in two sections
 
