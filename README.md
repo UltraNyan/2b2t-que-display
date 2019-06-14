@@ -1,4 +1,4 @@
-# 2b2t Que position to display
+# 2b2t Queue position to display
 Simple utility to read your place in que and send it to a display.
 
 Currently based on a solution that has a PC with Minecraft client open and connected to 2b2t.org, sending changes in queue status via GET request over WiFi to a ESP32 that is running a AsyncHTTP server.
