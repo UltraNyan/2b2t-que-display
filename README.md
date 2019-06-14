@@ -5,8 +5,11 @@ This setup consists of a PC with Minecraft client open and connected to 2b2t.org
 
 
 ## Features
+* Simple - works in the background and reads the log file
 * Systray with exit button
+
 ![tray](https://raw.githubusercontent.com/UltraNyan/2b2t-que-display/master/img/systray.png)
+
 
 ## Source code provided in two sections
 
@@ -15,9 +18,15 @@ Simple Java programm (jre 1.8) that reads .minecraft/logs/latest.log. Checks if 
 
 ### /Arduino
 
-Now I dont want to get really specific with the code because it will largely depend on your setup, I will provide the code as an example.
+Now I don't want to get really specific with the code because it will largely depend on your setup, I will provide the code as an example.
 
 #### Dependencies:
 *Adafruit GFX library
 
 *For the display I used [PxMatrix](https://github.com/2dom/PxMatrix)
+
+
+## Planned features
+* Create a local webserver with chart.js to display your queue stats.
+* Provide more polished code for Arduino projects.
+* Add option for notifications for different kind of events, like player login, etc.
