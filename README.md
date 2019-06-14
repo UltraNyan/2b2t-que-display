@@ -10,7 +10,7 @@ Simple Java programm (jre 1.8) that reads .minecraft/logs/latest.log. Checks if 
 
 ### /Arduino
 
-Now I dont want to really spetcific with the code because it will largely depend on your setup, I will just provide the code that I have been using.
+Now I dont want to get really spetcific with the code because it will largely depend on your setup, I will just provide the code as an example.
 Dependencies:
 Adafruit GFX library
 
