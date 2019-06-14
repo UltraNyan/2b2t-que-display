@@ -17,6 +17,7 @@ Does not suit for percise chat logging as some messages will be lost if there ar
 
 ## Usage
 Download a release and extract the zip to a folder, set the correct url for your ESP in the res/queue2screen.cfg and you are done.
+On the microcontroller side you need to GET a parameter named message and display the value on the screen.
 
 ## Source code provided in two sections
 
