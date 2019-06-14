@@ -16,7 +16,7 @@ Does not suit for percise chat logging as some messages will be lost if there ar
 
 
 ## Usage
-Download a release and extract the zip to a folder, set the correct url for your ESP in the 2b2t.cfg and you are done.
+Download a release and extract the zip to a folder, set the correct url for your ESP in the res/queue2screen.cfg and you are done.
 
 ## Source code provided in two sections
 

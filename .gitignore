@@ -60,6 +60,7 @@ target/
 .settings/
 .classpath
 .project
+bin/
 
 # NetBeans specific
 nbproject/private/
